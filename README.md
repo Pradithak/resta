@@ -1,2 +1,2 @@
-# resta
+# restaraunt
 learning git
